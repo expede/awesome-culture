@@ -13,6 +13,7 @@ NB: _There will be duplicates!_ If a resource falls under two categories, it wil
   - [RailsConf 2015 Presentation](https://www.youtube.com/watch?v=-ZLYxLjwNWo)
 
 # Company Ethos
+- [How GitHub Works](http://zachholman.com/posts/how-github-works/)
 - [bjeanes/culture](https://github.com/bjeanes/culture/blob/master/culture_and_ethos.md)
 - [Buffer Culture](http://www.slideshare.net/Bufferapp/buffer-culture-02)
 
