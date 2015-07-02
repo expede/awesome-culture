@@ -3,6 +3,8 @@ A curated list of awesome thought on tech culture. Inspired by the various aweso
 
 This is an ever-evolving list, and thus a continual work in progress. If you have a suggestion, please [submit a pull request](https://help.github.com/articles/using-pull-requests/)!
 
+NB: _There will be duplicates!_ If a resource falls under two categories, it will be placed under each section.
+
 # Manifestos
 - [Here's to the crazy ones (Apple)](https://www.youtube.com/watch?v=8rwsuXHA7RA)
 - [Code & Coffee Manifesto](https://github.com/Code-and-Coffee-YVR/how-to-organize/blob/master/Manifesto.md)
