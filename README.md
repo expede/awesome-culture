@@ -14,6 +14,9 @@ This is an ever-evolving list, and thus a continual work in progress. If you hav
 - [bjeanes/culture](https://github.com/bjeanes/culture/blob/master/culture_and_ethos.md)
 - [Buffer Culture](http://www.slideshare.net/Bufferapp/buffer-culture-02)
 
+# Lessons Learned
+- [Patty McCord: A Culture of Innovation](https://www.youtube.com/watch?v=o3e1lnixKBM)
+
 # Codes of Conduct
 -
 
