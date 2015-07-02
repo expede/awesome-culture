@@ -25,7 +25,7 @@ NB: _There will be duplicates!_ If a resource falls under two categories, it wil
 # Quality of Life
 - [Your Lifestyle Has Already Been Designed](http://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/)
 - [How GitHub Works](https://vimeo.com/43684882)
-  - [Just the slides](https://speakerdeck.com/holman/how-github-works-v2)
+  - [Slides](https://speakerdeck.com/holman/how-github-works-v2)
 
 # Engineering Management
 - [Why Firing Brilliant Assholes Is Required to Build a Great Engineering Culture](http://firstround.com/review/why-firing-brilliant-assholes-is-required-to-build-a-great-engineering-culture/)
