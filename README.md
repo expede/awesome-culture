@@ -16,3 +16,9 @@ This is an ever-evolving list, and thus a continual work in progress. If you hav
 
 # Codes of Conduct
 -
+
+# Quality of Life
+-
+
+# Engineering Management
+-
