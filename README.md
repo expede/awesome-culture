@@ -24,7 +24,7 @@ NB: _There will be duplicates!_ If a resource falls under two categories, it wil
 -
 
 # Quality of Life
--
+- [Your Lifestyle Has Already Been Designed](http://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/)
 
 # Engineering Management
 -
