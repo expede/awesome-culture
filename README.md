@@ -34,7 +34,7 @@ NB: _There will be duplicates!_ If a resource falls under two categories, it wil
 - [Why Firing Brilliant Assholes Is Required to Build a Great Engineering Culture](http://firstround.com/review/why-firing-brilliant-assholes-is-required-to-build-a-great-engineering-culture/)
 
 # Interviewing
--
+- [Why We Don't Ask Technical Questions for Technical Interviews at Buffer](https://medium.com/buffer-posts/why-we-dont-ask-technical-questions-for-technical-interviews-at-buffer-73f8132a8abd)
 - [What Company Culture Is and Is Not](https://moz.com/rand/what-company-culture-is-and-is-not/)
 
 # Inspiration
