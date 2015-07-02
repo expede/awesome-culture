@@ -8,11 +8,9 @@ This is an ever-evolving list, and thus a continual work in progress. If you hav
 - [Code & Coffee Manifesto](https://github.com/Code-and-Coffee-YVR/how-to-organize/blob/master/Manifesto.md)
   - Full disclaimer: @expede helps organize Code & Coffee
 
-# Articles
-- 
-
 # Company Ethos
 - [bjeanes/culture](https://github.com/bjeanes/culture/blob/master/culture_and_ethos.md)
+- [Buffer Culture](http://www.slideshare.net/Bufferapp/buffer-culture-02)
 
 # Codes of Conduct
 -
