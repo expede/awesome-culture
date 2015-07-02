@@ -20,9 +20,6 @@ NB: _There will be duplicates!_ If a resource falls under two categories, it wil
 # Lessons Learned
 - [Patty McCord: A Culture of Innovation](https://www.youtube.com/watch?v=o3e1lnixKBM)
 
-# Codes of Conduct
--
-
 # Quality of Life
 - [Your Lifestyle Has Already Been Designed](http://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/)
 
