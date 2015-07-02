@@ -16,12 +16,16 @@ NB: _There will be duplicates!_ If a resource falls under two categories, it wil
 - [How GitHub Works](http://zachholman.com/posts/how-github-works/)
 - [bjeanes/culture](https://github.com/bjeanes/culture/blob/master/culture_and_ethos.md)
 - [Buffer Culture](http://www.slideshare.net/Bufferapp/buffer-culture-02)
+- [How GitHub Works](https://vimeo.com/43684882)
+  - [Just the slides](https://speakerdeck.com/holman/how-github-works-v2)
 
 # Lessons Learned
 - [Patty McCord: A Culture of Innovation](https://www.youtube.com/watch?v=o3e1lnixKBM)
 
 # Quality of Life
 - [Your Lifestyle Has Already Been Designed](http://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/)
+- [How GitHub Works](https://vimeo.com/43684882)
+  - [Just the slides](https://speakerdeck.com/holman/how-github-works-v2)
 
 # Engineering Management
 - [Why Firing Brilliant Assholes Is Required to Build a Great Engineering Culture](http://firstround.com/review/why-firing-brilliant-assholes-is-required-to-build-a-great-engineering-culture/)
@@ -36,6 +40,8 @@ NB: _There will be duplicates!_ If a resource falls under two categories, it wil
 
 # Inspiration
 - [Value Handbook for New Employees](http://assets.sbnation.com/assets/1074301/Valve_Handbook_LowRes.pdf)
+- [How GitHub Works](https://vimeo.com/43684882)
+  - [Just the slides](https://speakerdeck.com/holman/how-github-works-v2)
  
 # Miscellaneous
 - [What Company Culture Is and Is Not](https://moz.com/rand/what-company-culture-is-and-is-not/)
