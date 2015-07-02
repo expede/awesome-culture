@@ -42,6 +42,10 @@ NB: _There will be duplicates!_ If a resource falls under two categories, it wil
 - [Value Handbook for New Employees](http://assets.sbnation.com/assets/1074301/Valve_Handbook_LowRes.pdf)
 - [How GitHub Works](https://vimeo.com/43684882)
   - [Slides](https://speakerdeck.com/holman/how-github-works-v2)
+
+# Diversity
+- [Recurse Center (previously Hacker School)](https://www.recurse.com/diversity)
+- [Django Community Diversity Statement](https://www.djangoproject.com/diversity/)
  
 # Miscellaneous
 - [What Company Culture Is and Is Not](https://moz.com/rand/what-company-culture-is-and-is-not/)
