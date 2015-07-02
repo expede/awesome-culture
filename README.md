@@ -37,3 +37,6 @@ NB: _There will be duplicates!_ If a resource falls under two categories, it wil
 
 # Inspiration
 - [Value Handbook for New Employees](http://assets.sbnation.com/assets/1074301/Valve_Handbook_LowRes.pdf)
+ 
+# Miscellaneous
+- [What Company Culture Is and Is Not](https://moz.com/rand/what-company-culture-is-and-is-not/)
