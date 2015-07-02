@@ -33,3 +33,6 @@ NB: _There will be duplicates!_ If a resource falls under two categories, it wil
 
 # Interviewing
 -
+
+# Inspiration
+- [Value Handbook for New Employees](http://assets.sbnation.com/assets/1074301/Valve_Handbook_LowRes.pdf)
