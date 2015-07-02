@@ -10,7 +10,7 @@ NB: _There will be duplicates!_ If a resource falls under two categories, it wil
 - [Code & Coffee Manifesto](https://github.com/Code-and-Coffee-YVR/how-to-organize/blob/master/Manifesto.md)
   - Full disclaimer: [@expede](https://github.com/expede/) (repo owner) helps organize [Code & Coffee](http://www.meetup.com/Code-Coffee-Vancouver/)
 - [Humane Development](http://humanedevelopment.org)
-  - [RailsConf 2015 Talk](https://www.youtube.com/watch?v=-ZLYxLjwNWo)
+  - [RailsConf 2015 Presentation](https://www.youtube.com/watch?v=-ZLYxLjwNWo)
 
 # Company Ethos
 - [bjeanes/culture](https://github.com/bjeanes/culture/blob/master/culture_and_ethos.md)
