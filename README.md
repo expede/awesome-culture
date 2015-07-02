@@ -8,7 +8,7 @@ NB: _There will be duplicates!_ If a resource falls under two categories, it wil
 # Manifestos
 - [Here's to the crazy ones (Apple)](https://www.youtube.com/watch?v=8rwsuXHA7RA)
 - [Code & Coffee Manifesto](https://github.com/Code-and-Coffee-YVR/how-to-organize/blob/master/Manifesto.md)
-  - Full disclaimer: @expede helps organize Code & Coffee
+  - Full disclaimer: @expede (repo owner) helps organize Code & Coffee
 - [Humane Development](http://humanedevelopment.org)
   - [RailsConf 2015 Talk](https://www.youtube.com/watch?v=-ZLYxLjwNWo)
 
