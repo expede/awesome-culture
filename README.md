@@ -26,5 +26,8 @@ This is an ever-evolving list, and thus a continual work in progress. If you hav
 # Engineering Management
 -
 
+# Hiring
+- [Patty McCord: A Culture of Innovation](https://www.youtube.com/watch?v=o3e1lnixKBM))
+
 # Interviewing
 -
