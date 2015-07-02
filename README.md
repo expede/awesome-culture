@@ -29,7 +29,7 @@ NB: _There will be duplicates!_ If a resource falls under two categories, it wil
 -
 
 # Hiring
-- [Patty McCord: A Culture of Innovation](https://www.youtube.com/watch?v=o3e1lnixKBM))
+- [Patty McCord: A Culture of Innovation](https://www.youtube.com/watch?v=o3e1lnixKBM)
 
 # Interviewing
 -
