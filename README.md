@@ -7,6 +7,8 @@ This is an ever-evolving list, and thus a continual work in progress. If you hav
 - [Here's to the crazy ones (Apple)](https://www.youtube.com/watch?v=8rwsuXHA7RA)
 - [Code & Coffee Manifesto](https://github.com/Code-and-Coffee-YVR/how-to-organize/blob/master/Manifesto.md)
   - Full disclaimer: @expede helps organize Code & Coffee
+- [Humane Development](http://humanedevelopment.org)
+  - [RailsConf 2015 Talk](https://www.youtube.com/watch?v=-ZLYxLjwNWo)
 
 # Company Ethos
 - [bjeanes/culture](https://github.com/bjeanes/culture/blob/master/culture_and_ethos.md)
