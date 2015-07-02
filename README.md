@@ -1,7 +1,7 @@
 # Awesome Culture
 A curated list of awesome thought on tech culture. Inspired by the various `awesome-*` projects
 
-This is an ever-evolving list, and thus a continual work in progress. If you have a suggestion, please [submit a pull request](https://help.github.com/articles/using-pull-requests/)!
+This is an ever-evolving list, and thus a continual work in progress. Feel free to contribute! Please follow the [pull request](https://help.github.com/articles/using-pull-requests/) model ;)
 
 NB: _There will be duplicates!_ If a resource falls under two categories, it will be placed under each section.
 
