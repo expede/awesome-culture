@@ -3,7 +3,7 @@ A curated list of awesome thought on tech culture. Inspired by the various `awes
 
 This is an ever-evolving list, and thus a continual work in progress. Feel free to contribute! Please follow the [pull request](https://help.github.com/articles/using-pull-requests/) model ;)
 
-NB: _There will be duplicates!_ If a resource falls under two categories, it will be placed under each section.
+NB: _There will be duplicates!_ If a resource falls under multiple categories, it will be placed under each section.
 
 # Manifestos
 - [Here's to the crazy ones (Apple)](https://www.youtube.com/watch?v=8rwsuXHA7RA)
