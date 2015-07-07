@@ -55,3 +55,4 @@ NB: _There will be duplicates!_ If a resource falls under multiple categories, i
 # Miscellaneous
 - [What Company Culture Is and Is Not](https://moz.com/rand/what-company-culture-is-and-is-not/)
 - [Kindness is Underrated](http://blog.circleci.com/kindness-is-underrated/)
+- [Be Kind](http://boz.com/articles/be-kind.html)
