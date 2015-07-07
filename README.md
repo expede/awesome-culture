@@ -26,6 +26,8 @@ NB: _There will be duplicates!_ If a resource falls under multiple categories, i
 - [Your Lifestyle Has Already Been Designed](http://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/)
 - [How GitHub Works](https://vimeo.com/43684882)
   - [Slides](https://speakerdeck.com/holman/how-github-works-v2)
+- ["Vacations are for the weak"](http://sethbannon.com/vacations-are-for-the-weak)
+- ["Silence is for the Weak"](http://blog.circleci.com/silence-is-for-the-weak/)
 
 # Engineering Management
 - [Why Firing Brilliant Assholes Is Required to Build a Great Engineering Culture](http://firstround.com/review/why-firing-brilliant-assholes-is-required-to-build-a-great-engineering-culture/)
@@ -49,3 +51,4 @@ NB: _There will be duplicates!_ If a resource falls under multiple categories, i
  
 # Miscellaneous
 - [What Company Culture Is and Is Not](https://moz.com/rand/what-company-culture-is-and-is-not/)
+- [Kindness is Underrated](http://blog.circleci.com/kindness-is-underrated/)
