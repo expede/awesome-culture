@@ -28,12 +28,14 @@ NB: _There will be duplicates!_ If a resource falls under multiple categories, i
   - [Slides](https://speakerdeck.com/holman/how-github-works-v2)
 - ["Vacations are for the weak"](http://sethbannon.com/vacations-are-for-the-weak)
 - ["Silence is for the Weak"](http://blog.circleci.com/silence-is-for-the-weak/)
+- [work-for-a-remote-culture](http://www.higginsninja.net/Blog/work-for-a-remote-culture/)
 
 # Engineering Management
 - [Why Firing Brilliant Assholes Is Required to Build a Great Engineering Culture](http://firstround.com/review/why-firing-brilliant-assholes-is-required-to-build-a-great-engineering-culture/)
 
 # Work Space
 - ["Silence is for the Weak"](http://blog.circleci.com/silence-is-for-the-weak/)
+- [work-for-a-remote-culture](http://www.higginsninja.net/Blog/work-for-a-remote-culture/)
 
 # Hiring
 - [Patty McCord: A Culture of Innovation](https://www.youtube.com/watch?v=o3e1lnixKBM)
