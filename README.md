@@ -44,7 +44,7 @@ NB: _There will be duplicates!_ If a resource falls under multiple categories, i
 
 # Interviewing
 - [Why We Don't Ask Technical Questions for Technical Interviews at Buffer](https://medium.com/buffer-posts/why-we-dont-ask-technical-questions-for-technical-interviews-at-buffer-73f8132a8abd)
-- [You Suck at Technical Interviews](http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews)
+- [You suck at technical interviews](http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews)
 
 # Inspiration
 - [Value Handbook for New Employees](http://assets.sbnation.com/assets/1074301/Valve_Handbook_LowRes.pdf)
