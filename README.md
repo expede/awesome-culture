@@ -1,4 +1,4 @@
-# Awesome Culture
+# Awesome Culture [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome thought on tech culture. Inspired by the various `awesome-*` projects
 
 This is an ever-evolving list, and thus a continual work in progress. Feel free to contribute! Please follow the [pull request](https://help.github.com/articles/using-pull-requests/) model ;)
