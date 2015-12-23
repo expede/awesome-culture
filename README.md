@@ -29,6 +29,7 @@ NB: _There will be duplicates!_ If a resource falls under multiple categories, i
 - ["Vacations are for the weak"](http://sethbannon.com/vacations-are-for-the-weak)
 - ["Silence is for the Weak"](http://blog.circleci.com/silence-is-for-the-weak/)
 - [work-for-a-remote-culture](http://www.higginsninja.net/Blog/work-for-a-remote-culture/)
+- [What makes us feel good about our work?](http://www.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work#t-175528)
 
 # Engineering Management
 - [Why Firing Brilliant Assholes Is Required to Build a Great Engineering Culture](http://firstround.com/review/why-firing-brilliant-assholes-is-required-to-build-a-great-engineering-culture/)
@@ -60,3 +61,4 @@ NB: _There will be duplicates!_ If a resource falls under multiple categories, i
 - [Kindness is Underrated](http://blog.circleci.com/kindness-is-underrated/)
 - [Be Kind](http://boz.com/articles/be-kind.html)
 - [Why It's Safe for Founders to Be Nice](http://paulgraham.com/safe.html)
+- [What makes us feel good about our work?](http://www.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work#t-175528)
