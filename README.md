@@ -5,7 +5,7 @@ This is an ever-evolving list, and thus a continual work in progress. Feel free 
 
 NB: _There will be duplicates!_ If a resource falls under multiple categories, it will be placed under each section.
 
-# Table of Contents
+# Table of Contentsc
 - [Manifestos](https://github.com/expede/awesome-culture/blob/master/README.md#manifestos)
 - [Company Ethos](https://github.com/expede/awesome-culture/blob/master/README.md#company-ethos)
 - [Lessons Learned](https://github.com/expede/awesome-culture/blob/master/README.md#lessons-learned)
@@ -55,6 +55,7 @@ NB: _There will be duplicates!_ If a resource falls under multiple categories, i
 - [Patty McCord: A Culture of Innovation](https://www.youtube.com/watch?v=o3e1lnixKBM)
 - [Why Firing Brilliant Assholes Is Required to Build a Great Engineering Culture](http://firstround.com/review/why-firing-brilliant-assholes-is-required-to-build-a-great-engineering-culture/)
 - [What Company Culture Is and Is Not](https://moz.com/rand/what-company-culture-is-and-is-not/)
+- [Never, Ever Compromise: Hiring For Culture Fit](http://blog.eladgil.com/2012/04/never-ever-compromise-hiring-for.html)
 
 # Interviewing
 - [Why We Don't Ask Technical Questions for Technical Interviews at Buffer](https://medium.com/buffer-posts/why-we-dont-ask-technical-questions-for-technical-interviews-at-buffer-73f8132a8abd)
