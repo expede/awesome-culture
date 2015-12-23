@@ -71,6 +71,7 @@ NB: _There will be duplicates!_ If a resource falls under multiple categories, i
 # Diversity
 - [Recurse Center (previously Hacker School)](https://www.recurse.com/diversity)
 - [Django Community Diversity Statement](https://www.djangoproject.com/diversity/)
+- [Diversity Debt: How Much Does Your Startup Have?](https://medium.com/@abarrica/startups-diversity-debt-and-what-to-do-about-it-cd385364506#.37de3laye)
  
 # Miscellaneous
 - [What Company Culture Is and Is Not](https://moz.com/rand/what-company-culture-is-and-is-not/)
