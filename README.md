@@ -5,6 +5,19 @@ This is an ever-evolving list, and thus a continual work in progress. Feel free 
 
 NB: _There will be duplicates!_ If a resource falls under multiple categories, it will be placed under each section.
 
+# Table of Contents
+- [Manifestos](https://github.com/expede/awesome-culture/blob/master/README.md#manifestos)
+- [Company Ethos](https://github.com/expede/awesome-culture/blob/master/README.md#company-ethos)
+- [Lessons Learned](https://github.com/expede/awesome-culture/blob/master/README.md#lessons-learned)
+- [Quality of Life](https://github.com/expede/awesome-culture/blob/master/README.md#quality-of-life)
+- [Engineering Management](https://github.com/expede/awesome-culture/blob/master/README.md#engineering-management)
+- [Work Space](https://github.com/expede/awesome-culture/blob/master/README.md#work-space)
+- [Hiring](https://github.com/expede/awesome-culture/blob/master/README.md#hiring)
+- [Interviewing](https://github.com/expede/awesome-culture/blob/master/README.md#interviewing)
+- [Inspiration](https://github.com/expede/awesome-culture/blob/master/README.md#inspiration)
+- [Diversity](https://github.com/expede/awesome-culture/blob/master/README.md#diversity)
+- [Miscellaneous](https://github.com/expede/awesome-culture/blob/master/README.md#miscellaneous)
+
 # Manifestos
 - [Here's to the crazy ones (Apple)](https://www.youtube.com/watch?v=8rwsuXHA7RA)
 - [Code & Coffee Manifesto](https://github.com/Code-and-Coffee-YVR/how-to-organize/blob/master/Manifesto.md)
