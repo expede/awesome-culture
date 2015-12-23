@@ -43,6 +43,7 @@ NB: _There will be duplicates!_ If a resource falls under multiple categories, i
 - ["Silence is for the Weak"](http://blog.circleci.com/silence-is-for-the-weak/)
 - [work-for-a-remote-culture](http://www.higginsninja.net/Blog/work-for-a-remote-culture/)
 - [What makes us feel good about our work?](http://www.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work#t-175528)
+- [How to make work-life balance work](https://www.ted.com/talks/nigel_marsh_how_to_make_work_life_balance_work)
 
 # Engineering Management
 - [Why Firing Brilliant Assholes Is Required to Build a Great Engineering Culture](http://firstround.com/review/why-firing-brilliant-assholes-is-required-to-build-a-great-engineering-culture/)
