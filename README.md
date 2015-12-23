@@ -5,7 +5,7 @@ This is an ever-evolving list, and thus a continual work in progress. Feel free 
 
 NB: _There will be duplicates!_ If a resource falls under multiple categories, it will be placed under each section.
 
-# Table of Contentsc
+# Table of Contents
 - [Manifestos](https://github.com/expede/awesome-culture/blob/master/README.md#manifestos)
 - [Company Ethos](https://github.com/expede/awesome-culture/blob/master/README.md#company-ethos)
 - [Lessons Learned](https://github.com/expede/awesome-culture/blob/master/README.md#lessons-learned)
