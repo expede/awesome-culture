@@ -80,3 +80,4 @@ NB: _There will be duplicates!_ If a resource falls under multiple categories, i
 - [Why It's Safe for Founders to Be Nice](http://paulgraham.com/safe.html)
 - [What makes us feel good about our work?](http://www.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work#t-175528)
 - [Valve Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
+- [Making 20% Time Work](http://begriffs.com/posts/2016-01-29-making-twenty-percent-time-work.html)
