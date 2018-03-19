@@ -47,6 +47,8 @@ NB: _There will be duplicates!_ If a resource falls under multiple categories, i
 
 # Engineering Management
 - [Why Firing Brilliant Assholes Is Required to Build a Great Engineering Culture](http://firstround.com/review/why-firing-brilliant-assholes-is-required-to-build-a-great-engineering-culture/)
+- [Building a strong engineering culture](https://www.slideshare.net/kevingoldsmith/building-a-strong-engineering-culture-my-talk-from-bbc-develop-2013)
+- [DevOps Culture](https://martinfowler.com/bliki/DevOpsCulture.html)
 
 # Work Space
 - ["Silence is for the Weak"](http://blog.circleci.com/silence-is-for-the-weak/)
