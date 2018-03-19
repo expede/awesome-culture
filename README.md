@@ -84,3 +84,4 @@ NB: _There will be duplicates!_ If a resource falls under multiple categories, i
 - [What makes us feel good about our work?](http://www.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work#t-175528)
 - [Valve Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 - [Making 20% Time Work](http://begriffs.com/posts/2016-01-29-making-twenty-percent-time-work.html)
+- [Why Spotify’s agile patterns work and why you shouldn’t copy them](https://zenexmachina.wordpress.com/2017/07/25/why-spotifys-agile-patterns-work-and-why-you-shouldnt-copy-them/)
