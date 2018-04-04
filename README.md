@@ -72,7 +72,7 @@ NB: _There will be duplicates!_ If a resource falls under multiple categories, i
 - [Recurse Center (previously Hacker School)](https://www.recurse.com/diversity)
 - [Django Community Diversity Statement](https://www.djangoproject.com/diversity/)
 - [Diversity Debt: How Much Does Your Startup Have?](https://medium.com/@abarrica/startups-diversity-debt-and-what-to-do-about-it-cd385364506#.37de3laye)
- 
+
 # Miscellaneous
 - [What Company Culture Is and Is Not](https://moz.com/rand/what-company-culture-is-and-is-not/)
 - [Kindness is Underrated](http://blog.circleci.com/kindness-is-underrated/)
@@ -81,3 +81,4 @@ NB: _There will be duplicates!_ If a resource falls under multiple categories, i
 - [What makes us feel good about our work?](http://www.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work#t-175528)
 - [Valve Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 - [Making 20% Time Work](http://begriffs.com/posts/2016-01-29-making-twenty-percent-time-work.html)
+- [Applying Design Thinking to HR and People Ops](https://www.ideou.com/blogs/inspiration/applying-design-thinking-to-hr-and-people-operations-at-fivestars)
