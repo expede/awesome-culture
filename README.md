@@ -47,6 +47,8 @@ NB: _There will be duplicates!_ If a resource falls under multiple categories, i
 
 # Engineering Management
 - [Why Firing Brilliant Assholes Is Required to Build a Great Engineering Culture](http://firstround.com/review/why-firing-brilliant-assholes-is-required-to-build-a-great-engineering-culture/)
+- [Building a strong engineering culture](https://www.slideshare.net/kevingoldsmith/building-a-strong-engineering-culture-my-talk-from-bbc-develop-2013)
+- [DevOps Culture](https://martinfowler.com/bliki/DevOpsCulture.html)
 
 # Work Space
 - ["Silence is for the Weak"](http://blog.circleci.com/silence-is-for-the-weak/)
@@ -57,6 +59,7 @@ NB: _There will be duplicates!_ If a resource falls under multiple categories, i
 - [Why Firing Brilliant Assholes Is Required to Build a Great Engineering Culture](http://firstround.com/review/why-firing-brilliant-assholes-is-required-to-build-a-great-engineering-culture/)
 - [What Company Culture Is and Is Not](https://moz.com/rand/what-company-culture-is-and-is-not/)
 - [Never, Ever Compromise: Hiring For Culture Fit](http://blog.eladgil.com/2012/04/never-ever-compromise-hiring-for.html)
+- [People matter most](https://martinfowler.com/bliki/PeopleMatterMost.html)
 
 # Interviewing
 - [Why We Don't Ask Technical Questions for Technical Interviews at Buffer](https://medium.com/buffer-posts/why-we-dont-ask-technical-questions-for-technical-interviews-at-buffer-73f8132a8abd)
@@ -81,4 +84,5 @@ NB: _There will be duplicates!_ If a resource falls under multiple categories, i
 - [What makes us feel good about our work?](http://www.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work#t-175528)
 - [Valve Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 - [Making 20% Time Work](http://begriffs.com/posts/2016-01-29-making-twenty-percent-time-work.html)
+- [Why Spotify’s agile patterns work and why you shouldn’t copy them](https://zenexmachina.wordpress.com/2017/07/25/why-spotifys-agile-patterns-work-and-why-you-shouldnt-copy-them/)
 - [Applying Design Thinking to HR and People Ops](https://www.ideou.com/blogs/inspiration/applying-design-thinking-to-hr-and-people-operations-at-fivestars)
