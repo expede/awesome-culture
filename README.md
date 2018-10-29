@@ -31,6 +31,7 @@ NB: _There will be duplicates!_ If a resource falls under multiple categories, i
 - [Buffer Culture](http://www.slideshare.net/Bufferapp/buffer-culture-02)
 - [How GitHub Works](https://vimeo.com/43684882)
   - [Slides](https://speakerdeck.com/holman/how-github-works-v2)
+- [Netflix culture: Freedom & Responsibility](https://www.slideshare.net/reed2001/culture-1798664)
 
 # Lessons Learned
 - [Patty McCord: A Culture of Innovation](https://www.youtube.com/watch?v=o3e1lnixKBM)
