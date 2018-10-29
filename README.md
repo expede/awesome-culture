@@ -31,9 +31,12 @@ NB: _There will be duplicates!_ If a resource falls under multiple categories, i
 - [Buffer Culture](http://www.slideshare.net/Bufferapp/buffer-culture-02)
 - [How GitHub Works](https://vimeo.com/43684882)
   - [Slides](https://speakerdeck.com/holman/how-github-works-v2)
+- [Netflix culture: Freedom & Responsibility](https://www.slideshare.net/reed2001/culture-1798664)
 
 # Lessons Learned
 - [Patty McCord: A Culture of Innovation](https://www.youtube.com/watch?v=o3e1lnixKBM)
+- [Developing a good culture takes constant vigilance](http://swombat.com/2013/11/29/good-culture-constant-vigilance)
+- [Your culture is rotting](http://randsinrepose.com/archives/your-culture-is-rotting/)
 
 # Quality of Life
 - [Your Lifestyle Has Already Been Designed](http://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/)
@@ -60,6 +63,8 @@ NB: _There will be duplicates!_ If a resource falls under multiple categories, i
 - [What Company Culture Is and Is Not](https://moz.com/rand/what-company-culture-is-and-is-not/)
 - [Never, Ever Compromise: Hiring For Culture Fit](http://blog.eladgil.com/2012/04/never-ever-compromise-hiring-for.html)
 - [People matter most](https://martinfowler.com/bliki/PeopleMatterMost.html)
+- [The Hiring Post](https://sockpuppet.org/blog/2015/03/06/the-hiring-post/)
+- [Hiring is number one](http://algeri-wong.com/yishan/engineering-management-hiring.html)
 
 # Interviewing
 - [Why We Don't Ask Technical Questions for Technical Interviews at Buffer](https://medium.com/buffer-posts/why-we-dont-ask-technical-questions-for-technical-interviews-at-buffer-73f8132a8abd)
