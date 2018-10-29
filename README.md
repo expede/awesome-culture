@@ -63,6 +63,7 @@ NB: _There will be duplicates!_ If a resource falls under multiple categories, i
 - [What Company Culture Is and Is Not](https://moz.com/rand/what-company-culture-is-and-is-not/)
 - [Never, Ever Compromise: Hiring For Culture Fit](http://blog.eladgil.com/2012/04/never-ever-compromise-hiring-for.html)
 - [People matter most](https://martinfowler.com/bliki/PeopleMatterMost.html)
+- [The Hiring Post](https://sockpuppet.org/blog/2015/03/06/the-hiring-post/)
 
 # Interviewing
 - [Why We Don't Ask Technical Questions for Technical Interviews at Buffer](https://medium.com/buffer-posts/why-we-dont-ask-technical-questions-for-technical-interviews-at-buffer-73f8132a8abd)
