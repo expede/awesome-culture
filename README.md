@@ -35,6 +35,8 @@ NB: _There will be duplicates!_ If a resource falls under multiple categories, i
 
 # Lessons Learned
 - [Patty McCord: A Culture of Innovation](https://www.youtube.com/watch?v=o3e1lnixKBM)
+- [Developing a good culture takes constant vigilance](http://swombat.com/2013/11/29/good-culture-constant-vigilance)
+- [Your culture is rotting](http://randsinrepose.com/archives/your-culture-is-rotting/)
 
 # Quality of Life
 - [Your Lifestyle Has Already Been Designed](http://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/)
